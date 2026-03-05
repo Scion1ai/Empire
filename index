@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imperion Empire | King Kula Needs You</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@700&family=MedievalSharp&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <audio id="ambient-sound" loop src="ambient-kingdom.mp3"></audio>
+
+    <div class="hero-container">
+        <div class="bg-image"></div>
+        
+        <div class="content">
+            <h2 class="subtitle">The Call of the Crown</h2>
+            <h1 class="main-title">KING KULA NEEDS YOU</h1>
+            <p class="flavor-text">To rebuild the legacy of the Imperion Empire.</p>
+            
+            <div class="action-area">
+                <a href="#join" class="btn-join">ENTER THE KINGDOM</a>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
